@@ -1,6 +1,6 @@
 # compareAJet
 
-A vue based front end that visualizes the difference between fighter jets. Uses Vueitfy and Chart.js. 
+A Vue based front end that visualizes the difference between fighter jets. Uses Vueitfy and Chart.js. 
 
 [Backend Repo](https://github.com/raymond-devries/fighter-jet-api)
 
