@@ -1,24 +1,7 @@
-# compare-a-jet
+# compareAJet
 
-## Project setup
-```
-npm install
-```
+A Vue based front end that visualizes the difference between fighter jets. Uses Vueitfy and Chart.js. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Backend Repo](https://github.com/raymond-devries/fighter-jet-api)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Web Scraping and Data Cleaning Repo](https://github.com/raymond-devries/jet-scraping)
