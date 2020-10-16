@@ -6,7 +6,7 @@ import axios from 'axios'
 import QueryString from "qs";
 
 Vue.prototype.$axios = axios.create({
-    baseURL: "http://localhost:8000",
+    baseURL: process.env.VUE_APP_API_BASE_URL,
     paramsSerializer: params => QueryString.stringify(params, {arrayFormat: "repeat"})
 })
 
