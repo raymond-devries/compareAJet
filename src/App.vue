@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="red darken-4" dark><h1>CompareAJet</h1></v-app-bar>
+    <v-app-bar app color="red darken-4" dark><h1>compareAJet</h1></v-app-bar>
     <v-main class="main ma-5">
       <div class="content mb-16">
         <div class="d-md-flex">
